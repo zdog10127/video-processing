@@ -23,13 +23,6 @@ Este projeto consiste em uma aplicação completa dividida em:
 - Listagem paginada de vídeos
 - Teste de conectividade automático
 
-### 🔄 Em Desenvolvimento
-- Processamento assíncrono com filas (Bull/Redis)
-- Geração de versões de baixa resolução (FFmpeg)
-- Criação automática de thumbnails
-- URLs de download temporárias
-- Sistema de notificações em tempo real
-
 ## 🛠️ Tecnologias
 
 ### Backend
